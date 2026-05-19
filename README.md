@@ -4,7 +4,7 @@ A real-time decoder module for [SDR++](https://github.com/AlexandreRouma/SDRPlus
 that receives and decodes Cospas-Sarsat 406 MHz emergency distress beacons
 (ELT, EPIRB, PLB, SSAS).
 
-Developed by **F4JTV** for **ADRASEC 06**, based on the original `dec406`
+Based on the original `dec406`
 decoder by **F4EHY**.
 
 ---
@@ -194,4 +194,3 @@ BSD 3-Clause License — see [LICENSE](LICENSE).
 
 - **F4EHY** — original `dec406` decoder (http://jgsenlis.free.fr/)
 - **Alexandre Rouma** — SDR++ software
-- **F4JTV / ADRASEC 06** — SDR++ module port
